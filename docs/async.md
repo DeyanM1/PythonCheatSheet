@@ -1,4 +1,4 @@
-# Python Async and Concurrency. Complete Reference.
+# Async and Concurrency
 
 ---
 

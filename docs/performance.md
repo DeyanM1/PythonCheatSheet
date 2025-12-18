@@ -1,4 +1,4 @@
-# Python Data and Performance. Complete Reference.
+# Data and Performance
 
 ---
 
@@ -6,11 +6,13 @@
 
 | Operation | List | Dict / Set | Notes |
 | --- | --- | --- | --- |
-| **Access** |  |  | Dict/Set use hash tables for instant lookup |
-| **Search** |  |  | `item in my_dict` is much faster than `item in my_list` |
-| **Insert** |  |  | List insertion at start/middle requires shifting elements |
-| **Delete** |  |  | List deletion requires shifting; Dict/Set is nearly instant |
-| **Append** |  | N/A | Adding to the end of a list is very efficient |
+| **Access** | O(1) | O(1) | Dict/Set use hash tables for instant lookup |
+| **Search** | O(n) | O(1) | `item in my_dict` is much faster than `item in my_list` |
+| **Insert** | O(n) | O(1) | List insertion at start/middle requires shifting elements |
+| **Delete** | O(n) | O(1) | List deletion requires shifting; Dict/Set is nearly instant |
+| **Append** | O(n) | N/A  | Adding to the end of a list is very efficient |
+
+
 
 ## Profiling: timeit and cProfile
 

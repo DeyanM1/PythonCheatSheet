@@ -1,6 +1,4 @@
-# Python Modules and Packaging. Complete Reference.
-
-Copy sections directly into a Jupyter notebook.
+# Modules and Packaging
 
 ---
 

@@ -1,8 +1,4 @@
-# Python Functions. Complete Reference.
-
-All examples below use valid Python syntax.  
-Each line ends with a comment explaining exactly what happens.  
-You copy any block straight into Jupyter.
+# Python Function
 
 ---
 

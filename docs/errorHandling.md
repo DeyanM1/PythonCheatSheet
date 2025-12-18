@@ -1,4 +1,4 @@
-# Python Error Handling. Complete Reference.
+# Error Handling
 
 All examples are valid Python syntax.  
 Each line ends with a comment explaining exactly what happens.  

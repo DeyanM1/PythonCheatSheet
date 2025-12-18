@@ -1,5 +1,4 @@
-````markdown
-# Python Classes. Complete Reference.
+# Python Classes
 
 All examples use valid Python syntax.  
 Each line ends with an end of line comment explaining exactly what happens.  
@@ -11,7 +10,7 @@ You copy any block straight into Jupyter.
 ```python
 class Person:                          # defines a new class
     pass                               # empty class body
-````
+```
 
 ---
 

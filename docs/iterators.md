@@ -1,4 +1,4 @@
-# Python Iterators and Generators. Complete Reference.
+# Iterators and Generators
 
 ---
 

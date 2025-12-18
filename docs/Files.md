@@ -1,4 +1,4 @@
-# Python Files and OS. Complete Reference.
+# Files and OS
 
 Copy sections directly into a Jupyter notebook.
 

@@ -1,8 +1,4 @@
-# Core Python Cheatsheet
-
-All examples use valid Python syntax.  
-Every code line ends with a comment explaining exactly what happens.  
-You copy any block straight into Jupyter.
+# Core Python
 
 ---
 

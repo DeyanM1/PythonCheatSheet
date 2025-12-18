@@ -1,6 +1,4 @@
-# Python Lists. Complete Reference.
-
-Copy sections directly into a Jupyter notebook.
+# Lists
 
 ---
 
